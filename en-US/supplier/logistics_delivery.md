@@ -10,7 +10,7 @@ MOL is partnering with some of the renowned Third Party Logistics Services Provi
 
 You may also refer to our [Logistics Services](https://www.marineonline.com/logistics) page for more information.
 
-###  How do I update the Delivery status to the Buyers?
+###  How do I update the Delivery status to the Buyers
 
 You can update the Delivery status to the Buyers under Order Management. Go to My MOL > Order > My Offer > Appointed/ Processing tab > Click Update Status.  
 
